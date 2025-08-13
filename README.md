@@ -34,4 +34,4 @@ Enter a city name and click "Get Weather" to view the current weather informatio
 
 ## License
 
-This project is
+This project is for educational purpose only
